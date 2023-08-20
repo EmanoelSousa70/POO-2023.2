@@ -1,0 +1,13 @@
+Os atributos definem as características de um objeto, enquanto os métodos definem as ações que o objeto pode realizar. 
+Juntos, eles representam a estrutura e o comportamento dos objetos em programação orientada a objetos.
+exemplo>:
+Exemplo: "Livro"
+Atributos:
+Título: "Aventuras na Floresta"
+Autor: "Carlos Silva"
+Páginas: 200
+Métodos:
+abrir(): Abre o livro para leitura.
+lerPagina(pagina): Lê a página especificada do livro.
+fechar(): Fecha o livro após a leitura.
+marcarPagina (): marca onde voce parou de ler.

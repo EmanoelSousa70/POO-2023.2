@@ -1,0 +1,13 @@
+Disciplina: Representa as matérias oferecidas pelo sistema, com informações como nome, 
+código, carga horária,  etc.
+
+Professor: Representa os professores que ministram aulas e podem ter informações como nome, 
+disciplinas que lecionam e horários de aula.
+
+Turma: Representa os grupos de alunos que estão matriculados em uma determinada disciplina,
+com informações como número da turma, horário, sala de aula, professor, etc.
+
+Avaliação: Representa as avaliações e notas atribuídas aos alunos em determinadas disciplinas, 
+com informações como tipo de avaliação, data, nota, peso, etc.
+
+Curso: Representa os cursos oferecidos pela instituição, com informações como nome do curso, duração, currículo, disciplinas, etc.

@@ -1,0 +1,47 @@
+Jogador:
+
+Atributos: nome, nível, pontos de vida, pontos de mana, experiência
+Comportamentos: mover-se, atacar, usar habilidades, interagir com itens, ganhar experiência
+
+Inimigo:
+
+Atributos: tipo, pontos de vida, pontos de dano, pontos de experiência concedidos
+Comportamentos: atacar jogador, mover-se, receber dano, morrer
+
+Item:
+
+Atributos: nome, descrição, tipo (arma, armadura, poção, etc.), valor, efeito
+Comportamentos: ser coletado pelo jogador, ser equipado, ser usado
+
+NPC (Personagem não jogador):
+
+Atributos: nome, diálogo, função (comerciante, quest giver, etc.), inventário de itens
+Comportamentos: interagir com o jogador, fornecer missões, vender itens, comprar itens
+
+Ambiente:
+
+Atributos: nome, descrição, tipo (floresta, caverna, cidade, etc.), obstáculos, recursos
+Comportamentos: explorar, coletar recursos, interagir com elementos do ambiente
+
+Missão:
+
+Atributos: nome, descrição, objetivo, recompensa, status (ativa, concluída, falhada)
+Comportamentos: iniciar, completar, falhar, recompensar o jogador
+
+Feitiço:
+
+Atributos: nome, descrição, efeito, custo de mana, alcance
+Comportamentos: lançar feitiço, afetar inimigos ou aliados, consumir mana
+Mercado:
+
+Atributos: tipos de itens disponíveis, preços, estoque
+Comportamentos: comprar, vender e trocar itens com o jogador
+Missão Secundária:
+
+Atributos: nome, descrição, objetivo, recompensa, status
+Comportamentos: iniciar, completar, falhar, recompensar o jogador
+
+Efeito de Status:
+
+Atributos: tipo (envenenamento, regeneração, etc.), duração, intensidade
+Comportamentos: afetar a saúde ou habilidades do jogador, ser aplicado ou removido

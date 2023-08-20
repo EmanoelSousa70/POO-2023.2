@@ -1,0 +1,29 @@
+QUESTÃO 08
+
+Classe: Circulo
+--------------------------
+- raio: number
+--------------------------
++ constructor(raio: number)
++ calcularArea(): number
++ calcularPerimetro(): number
+--------------------------
+
+Instanciação:
++ circulo: Circulo = new Circulo(valorRaio: number)
+
+Chamada dos Métodos:
++ areaCirculo: number = circulo.calcularArea()
++ perimetroCirculo: number = circulo.calcularPerimetro()
+
+
+
+ QUESTÃO 09
+Classe: SituacaoFinanceira
+--------------------------
+- valorCreditos: number
+- valorDebitos: number
+--------------------------
++ constructor(valorCreditos: number, valorDebitos: number)
++ saldo(): number
+--------------------------

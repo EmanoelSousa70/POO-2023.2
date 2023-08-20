@@ -1,0 +1,11 @@
+
+A classe é uma descrição abstrata de uma categoria de entidades, 
+enquanto os objetos são instâncias reais dessa categoria, com características específicas e a capacidade de realizar ações.
+
+exemplo >:
+Classe: Carro
+Atributos: cor, modelo, ano
+Métodos: ligar(), acelerar(), frear() , desligar():
+exemplo >:
+Objeto 1: Carro azul, modelo "Sedan", ano 2022
+Objeto 2: Carro vermelho, modelo "Esportivo", ano 2023

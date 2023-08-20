@@ -1,0 +1,6 @@
+A--. Sim, em um sistema bancário, é seria interessante que um objeto "conta" tenha uma referência a um objeto "pessoa" 
+que representa o tiular da conta.Isso faz com que cada conta seja vinculado a um titular, e isso facilita o gerenciamento das informações.
+
+B--  Sim,  Isso é util para mostrar o relacionamento entre uma pessoa e suas contas bancárias. 
+Mas,no lugar de usar atributos individuais tem que usar um vetor ou lista para representar
+o cojunto de contas de uma só pessoa.
