@@ -1,0 +1,12 @@
+const name = Ely;
+const paymentAmount = 120.56;
+const preferredLanguage = TypeScript;
+
+const message = `
+${name}
+My payment time is ${paymentAmount}
+and
+my preferred language is ${preferredLanguage}
+`;
+
+console.log(message);
